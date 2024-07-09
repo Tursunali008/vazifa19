@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114210681557",
+    "project_id": "name-trevel-app",
+    "storage_bucket": "name-trevel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114210681557:android:439c00b7929ee09aff285c",
+        "android_client_info": {
+          "package_name": "com.example.vazifa19"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACk-osFmAMxkyzg3C_lrvjKebXqFRoYLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

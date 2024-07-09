@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"name-trevel-app","appId":"1:114210681557:android:439c00b7929ee09aff285c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"name-trevel-app","configurations":{"android":"1:114210681557:android:439c00b7929ee09aff285c","ios":"1:114210681557:ios:a9b8c5802056bd81ff285c"}}}}}}
